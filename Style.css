@@ -1,0 +1,158 @@
+@font-face{
+font-family: Sketch;
+	src: url('Font/webfontkit-20140131-161848/archistico_simple-webfont.eot'); /* IE9 Compat Modes */
+	src: url('Font/webfontkit-20140131-161848/archistico_simple-webfont.woff') format('woff'), /* Modern Browsers */
+	     url('Font/webfontkit-20140131-161848/archistico_simple-webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+	     url('Font/webfontkit-20140131-161848/archistico_simple-webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
+
+}
+
+html {
+background-color: #786D5F;
+text-align:center;
+font-family:Century Gothic;
+font-size:1.3em;
+color: white;
+}
+
+.chunk {
+padding: 0 1% 0 1%;
+font-size:1em;
+text-align:right;
+color:#786D5F;
+}
+
+.odd {
+text-align:left;
+}
+
+
+#pitch {
+padding:10% 0 2% 0;
+}
+
+.chunk img{
+width:25%;
+height:auto;
+vertical-align:middle;
+padding: 0 15px 0 15px;
+}
+
+.chunk:hover{
+color:white;
+}
+
+#alla {
+color: white;
+padding: 0 0 15px 0;
+}
+
+#pitch {
+color:white;
+}
+
+.content {
+width:900px;
+margin:0 auto;
+}
+
+.resume {
+background:#FEFEF2;
+
+}
+
+#resume_heading {
+color:black;
+}
+
+#header {
+font-size:1em;
+font-weight:normal;
+}
+
+#name {
+font-size:1.3em;
+padding:25px 0 0 0;
+}
+
+.job{
+color:black;
+padding: 10px 35px 10px 35px;
+text-align:left;
+
+}
+
+.job ul li{
+padding:18px 0 0px 0;
+}
+
+.list ul li{ 
+padding: 0 ;
+}
+
+.nav ul li {
+display:inline-block;
+background:#C2B280;
+padding:10px;
+}
+
+.nav ul li a{
+text-decoration:none;
+color:white;
+}
+
+.nav ul li a:visited {
+text-decoration:none;
+color:white;
+}
+
+.nav ul li:hover {
+font-weight:bold;
+}
+
+.line {
+background:white;
+width:100%;
+height:.05em;
+margin: 0 0 15px 0;
+}
+
+
+.footer {
+margin:15px;
+}
+
+.footer a {
+text-decoration:underline;
+color:white;
+}
+
+.footer a:visited {
+text-decoration:underline;
+color:white;
+}
+
+#foot {
+text-align:center;
+font-size:.8em;
+margin:30px 0 0 0;
+}
+
+#foot ul li{
+display:inline;
+}
+
+#foot ul li img{
+width:15%;
+height:auto;
+}
+
+.icon {
+width:40%;
+height:auto;
+display:inline-block;
+}
+
+h1 {
+font-family: Sketch;
+}
